@@ -11,6 +11,8 @@
        -The class label: stroke
       
        -Attributes number:11
+
+       -Number of Objects: 4981
       
       - Attribute Information:
               1) gender: "Male", "Female" or "Other"
