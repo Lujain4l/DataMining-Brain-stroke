@@ -22,7 +22,7 @@
               7) Residence_type: "Rural" or "Urban" 
               8) avg_glucose_level: average glucose level in blood
               9) bmi: body mass index 
-              10) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"* 
+              10) smoking_status: "formerly smoked", "never smoked", "smokes" or "Unknown"
               11) stroke: 1 if the patient had a stroke or 0 if not
 
               
